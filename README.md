@@ -15,3 +15,7 @@ This is a simple
 fddfsf
 
 sadads
+
+###Copyright
+
+git.training

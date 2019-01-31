@@ -19,4 +19,4 @@ sadads
 dsaasdjasfsdifjiajfaoq
 ###Copyright
 
-git.training
+git.training. All right reserved
